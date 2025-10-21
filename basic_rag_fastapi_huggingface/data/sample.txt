@@ -1,0 +1,3 @@
+LangChain is a framework that helps developers build applications powered by language models.
+It supports integrations with vector databases like Chroma for document retrieval.
+Retrieval-Augmented Generation combines retrieved context with LLM reasoning to produce accurate answers.
